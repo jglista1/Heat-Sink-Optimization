@@ -1,0 +1,1 @@
+{"inputs":[{"name":"Output directory","type":"text","value":".","values":"output.json"},{"name":"Thickness","type":"scalar","values":0.21071350357225688,"units":"mm"},{"name":"Mix Factor","type":"scalar","values":0.65574069915658684},{"name":"Cell size","type":"vector","values":{"x":[4.698258611737554,4.698258611737554,4.698258611737554]},"units":"mm"}]}
